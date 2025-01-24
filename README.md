@@ -49,8 +49,7 @@ Ensure you have the following installed:
    npm start
 4. Open your browser and navigate to:
 
-   ```arduino
-   http://localhost:5173
+   [http://localhost:5173](http://localhost:5173)
 
 
 
