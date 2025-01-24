@@ -54,7 +54,7 @@ Ensure you have the following installed:
 
 
 ### Prerequisites
-React: Component-based library for building UI.
-TypeScript: Ensures type safety across the project.
-GoJS: A JavaScript library for interactive diagrams and graphs.
-Jest: Testing framework for unit tests.
+1. **React**: Component-based library for building UI.
+2. **TypeScript**: Ensures type safety across the project.
+2. **GoJS**: A JavaScript library for interactive diagrams and graphs.
+2. **Jest**: A testing framework for unit tests (Didn't add test).
