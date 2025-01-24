@@ -19,8 +19,8 @@ The application uses the [GoJS library](https://gojs.net/latest/) for rendering 
 - **Resizable Nodes**: Resize any node directly on the canvas.
 
 ### Diagram Types
-1. **Standard Diagram**: Displays a diagram with layers which resizable.
-2. **Packed Diagram**: Displays a packed diagram layout optimized for minimal space with higher amount of nodes.
+1. **Standard Diagram**: Displays a diagram with layers which resizable, and movable.
+2. **Packed Diagram**: Displays a packed diagram layout optimized for minimal space with a higher amount of nodes (10k-20k-30K).
 
 ---
 
